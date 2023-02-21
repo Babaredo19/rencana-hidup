@@ -6,3 +6,4 @@ SEMOGA BISA TERCAPAI:
 - membahagiakan orang tua
 - membuat website sendiri
 - punya website sendiri
+- mengusai framework php dan js
